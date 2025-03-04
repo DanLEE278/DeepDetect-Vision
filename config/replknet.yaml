@@ -1,0 +1,12 @@
+model:
+  pname: replknet             # package name
+  cname: RepLKNetDetector     # class name
+  pretrained: True            # Use pretrained
+
+train:
+  - None
+
+data_train:
+  - None
+
+

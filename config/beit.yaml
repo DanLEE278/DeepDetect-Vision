@@ -1,0 +1,12 @@
+model:
+  pname: beit                                       # package name
+  cname: BeitDetector                               # class name
+  pretrained: microsoft/beit-base-patch16-224       # Use pretrained
+
+train:
+  - None
+
+data_train:
+  - None
+
+
